@@ -10,3 +10,4 @@ Material referente à disciplina D20 - Monitoria em Ciência da Computação, mi
 
 ## Exercícios
 - Lista de exercícios 01 - [exercícios](./exercicios/D20_Monitoria_CiC_01_Exercicio.ipynb) - [soluções](./exercicios/D20_Monitoria_CiC_01_Exercicio_solucoes.ipynb)
+- Atividade avaliativa 01 - [exercícios](./exercicios/D20_Monitoria_CiC_AtividadeAvaliativa_01.ipynb)
